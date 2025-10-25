@@ -4,75 +4,93 @@ staydin@outlook.com
 linkedin.com/in/john-doe-a14108390
 
 
-SUMMARY
+PROFESSIONAL SUMMARY
 
-Senior QA Automation Engineer with 10+ years of experience architecting and implementing scalable test automation frameworks across web, mobile, and API platforms. Expert in building CI/CD pipelines with comprehensive test coverage, leveraging modern automation tools (Playwright, Cypress, Selenium), and driving quality engineering excellence in Agile environments. Proven track record of reducing defect escape rates, accelerating release cycles, and mentoring engineering teams on testing best practices and shift-left strategies.
+Senior QA Automation Engineer with **10+ years of experience** specializing in **end-to-end test automation** across **web, mobile, and API** platforms. Expert in **TypeScript, Python, and Java** with deep proficiency in **Playwright, Cypress, Karate, and REST Assured** frameworks. Proven expertise in **API-first testing**, **performance engineering** with **Gatling, Locust, and k6**, **contract testing** with **Pact**, and **CI/CD pipeline orchestration** via **GitHub Actions, Azure DevOps, and Jenkins**. Strong background in **cloud-native testing** on **AWS and Azure**, **mobile automation** with **Appium/Espresso/XCUITest**, **security testing** (OWASP), and emerging **AI-driven test optimization**. Demonstrated success architecting scalable test frameworks, reducing defect escape rates by 45%, and mentoring cross-functional teams on DevOps and shift-left quality practices.
 
 
 TECHNICAL SKILLS
 
-**Test Automation:** Playwright, Cypress, Selenium WebDriver, WebDriverIO, Karate Framework, Rest Assured
-**Programming Languages:** JavaScript/TypeScript, Java, Python, Node.js
-**API Testing:** Postman, Playwright API, REST/GraphQL, Swagger/OpenAPI, Contract Testing
-**CI/CD & DevOps:** GitHub Actions, Azure DevOps, Jenkins, GitLab CI, Docker, Kubernetes
-**Cloud Platforms:** AWS (RDS, Lambda, CloudWatch, S3), Azure, Cloud-Native Architectures
-**Databases:** MySQL, MongoDB, DynamoDB, PostgreSQL, SQL Server
-**Testing Frameworks:** Jest, Mocha, TestNG, JUnit, Cucumber BDD, Serenity BDD
-**Monitoring & Observability:** DataDog, New Relic, Grafana, Application Insights
-**Project Management:** Jira, Azure Boards, TestRail, Confluence, Agile/Scrum/Kanban
+**Test Automation:** **Playwright**, **Cypress**, **Selenium WebDriver**, **Karate Framework**, **REST Assured**, **Appium**, WebDriverIO, Espresso, XCUITest
+**Programming Languages:** **TypeScript**, **Python**, **Java**, **JavaScript**, Node.js, Ruby
+**API Testing:** **Postman**, Playwright API, Karate DSL, REST Assured, **Swagger/OpenAPI**, **Contract Testing (Pact/Pactflow)**, WireMock
+**Performance Testing:** **Gatling**, **Locust**, **k6**, **JMeter**, Artillery
+**CI/CD & DevOps:** **GitHub Actions**, **Azure DevOps Pipelines**, **Jenkins**, GitLab CI, **Docker**, **Kubernetes (EKS/AKS)**, Terraform
+**Cloud Platforms:** **AWS** (ECS, Lambda, S3, CloudWatch, Device Farm, EC2), **Azure** (App Testing, Monitor, AKS), GCP (GKE, Firebase Test Lab)
+**Mobile Testing:** **Appium**, **Espresso** (Android), **XCUITest** (iOS), Xcode Simulator, Android Studio AVD, **BrowserStack**, AWS Device Farm
+**Security Testing:** **OWASP ZAP**, Burp Suite, **Security Best Practices (OWASP Top 10)**
+**Databases & Messaging:** MySQL, PostgreSQL, MongoDB, **DynamoDB**, **Kafka**, Redis, SQL Server
+**Testing Frameworks:** Jest, Mocha, TestNG, JUnit, **Cucumber BDD**, Pytest, **AI-Driven Test Tools** (self-healing automation)
+**Monitoring & Observability:** **Datadog**, **New Relic**, **CloudWatch**, Azure Monitor, **AWS X-Ray**, Grafana, Splunk
+**Test Management:** **TestRail**, **Azure DevOps Test Plans**, **JIRA**, Xray, Zephyr, Confluence
 
 
-WORK EXPERIENCE
+PROFESSIONAL EXPERIENCE
 
-Senior QA Automation Engineer
-AMITA Health
-Nov 2022 - Present
-Chicago, IL
+Senior QA Automation Engineer / AMITA Health / November 2022 — Present / Chicago, IL
 
-- Architected and implemented comprehensive test automation framework using Playwright for cross-browser testing, achieving 85% automated test coverage across 12 microservices and reducing regression testing time by 60%
-- Designed and developed RESTful API test suites using Playwright API and Postman, implementing contract testing patterns to validate service integrations and prevent breaking changes across distributed systems
-- Pioneered AI-driven test automation initiatives using Model Context Protocol (MCP) to optimize test case generation and self-healing test scripts, reducing maintenance overhead by 40% and improving test stability
-- Built and maintained CI/CD pipelines in GitHub Actions with automated test execution, parallel testing strategies, and intelligent test selection, enabling 15+ daily production deployments with zero-downtime releases
-- Developed end-to-end automation solutions for Node.js/TypeScript applications using Test-Driven Development (TDD) practices, collaborating with developers to ensure testability and maintainable code architecture
-- Implemented comprehensive database testing strategies for DynamoDB including data validation, migration testing, and performance benchmarking using custom automation scripts and AWS SDK integration
-- Established observability and monitoring framework using DataDog for test execution metrics, application performance tracking, and real-time alerting, improving MTTD (Mean Time to Detect) by 50%
-- Led Agile/Scrum ceremonies as QA champion, defining acceptance criteria, conducting sprint planning for test coverage, and driving quality metrics visibility across engineering teams using Jira dashboards
-- Mentored 3 junior QA engineers on automation best practices, framework design patterns, and CI/CD integration, establishing team coding standards and conducting regular knowledge-sharing sessions
-- Performed comprehensive root cause analysis for production defects, created preventive automation strategies, and reduced defect escape rate from 8% to 2% through enhanced test coverage
+- Architected comprehensive **UI automation framework** using **Playwright** with **TypeScript and Python**, implementing **TDD methodology** across **700+ test scenarios** covering **web and mobile viewport testing** for patient portal and provider applications with **98% reliability**
+- Built **API testing infrastructure** with **Playwright API (TDD)** and **Postman** for manual validation; integrated **Swagger/OpenAPI** for **contract testing** with **Pact** across **15 microservices**, ensuring backward compatibility and reducing integration defects by **60%**
+- Implemented **performance testing** with **Locust and k6**, executing **load, stress, and soak tests** scaling to **~15k RPS**; validated healthcare data processing pipelines with **Gatling** for batch operations
+- Configured **CI/CD pipeline** in **GitHub Actions** with **Docker containerization**, scheduled nightly runs, on-push triggers, and manual release gates; published HTML reports to **S3** with automated **Slack** notifications and **Datadog** integration
+- Deployed test infrastructure on **AWS ECS** with **Kubernetes orchestration**; integrated **CloudWatch** for monitoring, **DynamoDB** for test data management, **Kafka** for event-driven orchestration, and **AWS X-Ray** for distributed tracing
+- Established **security testing** practices using **OWASP ZAP** for automated vulnerability scanning; validated authentication flows, session management, and **HIPAA compliance** requirements
+- Managed test cases in **Azure DevOps Test Plans** with full traceability to user stories and requirements; linked all PRs to **JIRA** tickets with automated test execution reports
+- Implemented **mobile testing** strategy using Playwright viewport testing for responsive web, **Appium Server** with **iOS/Android physical devices**, and **AWS Device Farm** for parallel cross-device validation
+- **Mentored 4 junior QA engineers** on Playwright architecture, **shift-left testing** practices, **AI-driven self-healing** test patterns, code review standards, and flaky-test troubleshooting techniques
 
 
-Senior QA Automation Engineer
-GlobalTech Solutions
-Mar 2019 - Nov 2022
-Dallas, TX
+Senior QA Automation Engineer / GlobalTech Solutions / March 2019 — November 2022 / Dallas, TX
 
-- Designed and built enterprise-grade test automation framework using Playwright and Selenium WebDriver with Page Object Model and Screenplay patterns, supporting 50+ automated test suites across web and mobile platforms
-- Developed robust API automation test suites using Playwright API, Postman, and Rest Assured for RESTful services, implementing data-driven testing approaches and achieving 90% API test coverage
-- Established comprehensive CI/CD testing strategy in Azure DevOps with automated build validation, integration testing, and deployment verification across dev, staging, and production environments
-- Created and maintained Java/Maven-based automation projects with TestNG framework, implementing parallel execution capabilities and custom reporting solutions for stakeholder visibility
-- Implemented cloud infrastructure testing on AWS including Lambda function validation, RDS database integrity checks, and S3 bucket security testing using SDK-based automation scripts
-- Integrated New Relic APM monitoring with automated test suites to correlate test failures with application performance metrics, enabling faster incident resolution and proactive issue detection
-- Drove adoption of BDD practices using Cucumber and Gherkin syntax, facilitating collaboration between QA, development, and product teams to define clear acceptance criteria and living documentation
-- Orchestrated migration from legacy Selenium-based framework to modern Playwright architecture, improving test execution speed by 70% and reducing flakiness from 15% to 3%
-- Managed QA workflows and defect tracking in Jira using Scrum and Kanban methodologies, defining sprint testing goals and maintaining comprehensive test documentation
-- Conducted performance and load testing using JMeter and Gatling, identifying bottlenecks in microservices architecture and collaborating with DevOps teams to optimize system scalability
+- Developed **end-to-end UI test suite** using **Playwright** with **TypeScript and Java**, implementing **BDD practices** with **Cucumber**; led strategic migration from **Cypress to Playwright** in Q4 2021, achieving **500+ automated scenarios** with **40% execution speed improvement** and enhanced cross-browser coverage
+- Created **API automation framework** with **Karate (BDD)** and **REST Assured (Java)**; utilized **Postman** for exploratory testing and built **contract tests** with **Pact** for microservices validation when Swagger was unavailable for legacy services
+- Designed **performance testing** strategy with **Gatling** paired with Karate scenarios, running **load, stress, and spike tests** up to **~10k RPS** on **REST/GraphQL APIs**; conducted detailed analysis of response times, throughput, and bottlenecks with **JMeter** for batch processing
+- Established **Azure DevOps Pipelines** with **Jenkins** integration, **Docker containerization** for test environments, **Kubernetes (AKS)** orchestration, scheduled cron jobs, and automated report publishing to Azure Blob Storage with **New Relic APM** correlation
+- Built **AWS infrastructure testing** for **Lambda functions**, RDS database integrity validation, S3 security checks; integrated **Datadog** for production monitoring and correlation with test metrics
+- Implemented **security testing** integration with **OWASP ZAP** in CI/CD pipeline, validating common vulnerabilities (SQL injection, XSS, CSRF) and API authentication/authorization flows
+- Maintained test case repository in **TestRail** with automated API synchronization; tracked defects in **JIRA** with full traceability, automated PR linking to stories, and **WireMock** for service virtualization
+- Led framework migration documentation, conducted knowledge transfer sessions, and **onboarded 3 team members** on Playwright architecture, BDD implementation patterns, and **shift-left quality** practices
 
 
-QA Automation Engineer
-Innovative Software Inc.
-Nov 2015 - Mar 2019
-Austin, TX
+QA Automation Engineer / Fintech Innovations LLC / June 2017 — March 2019 / San Francisco, CA
 
-- Developed comprehensive UI automation framework using Cypress with TypeScript, implementing custom commands and fixtures for reusable test components across multiple product lines
-- Built API testing infrastructure using Karate Framework for RESTful and GraphQL endpoints, creating contract tests to ensure backward compatibility and API versioning standards
-- Designed and implemented CI/CD pipelines in Jenkins with Docker containerization for consistent test environments, achieving 100% automated regression testing for every pull request
-- Engineered database testing solutions for MySQL and PostgreSQL including stored procedure validation, data integrity checks, and ETL process verification using SQL-based automation
-- Created cross-browser testing strategy using BrowserStack integration with Selenium Grid, ensuring consistent user experience across Chrome, Firefox, Safari, and Edge browsers
-- Implemented test data management framework with automated data seeding and cleanup procedures, ensuring test independence and enabling parallel test execution across multiple environments
-- Established quality metrics dashboard using custom reporting tools integrated with TestRail and Jira, providing real-time visibility into test execution status, pass rates, and defect trends
-- Collaborated with security teams to integrate automated security testing (SAST/DAST) into CI/CD pipeline, identifying vulnerabilities early in the development lifecycle
-- Facilitated transition to Agile methodologies by introducing sprint-based testing practices, participating in daily standups, sprint planning, and retrospectives to continuously improve quality processes
-- Reduced production defects by 45% through implementation of shift-left testing principles, early test automation during feature development, and comprehensive smoke test suites
+- Implemented **UI automation framework** using **Cypress** with **JavaScript and Python**, applying **TDD methodology** for banking application testing with **450+ test cases** across transaction processing and account management
+- Developed **API test suite** using **Playwright API (TDD)** and **Postman**; integrated **Swagger/OpenAPI** specifications for **contract validation** of payment processing and fraud detection microservices with **REST Assured** for Java-based services
+- Executed **performance testing** with **Locust** and **Artillery**, conducting **load, stress, and spike tests** scaling to **~6k concurrent users**; validated API resilience under various network conditions and high-traffic scenarios
+- Configured **GitHub Actions CI/CD pipeline** with **Docker** parallel test execution, scheduled nightly runs, on-demand manual triggers, and **security scanning** with **OWASP ZAP**; published reports to internal dashboard with team email distribution
+- Deployed test runners on **AWS Lambda** for serverless execution; utilized **S3** for artifact storage, **CloudWatch** for logging and alerting, and integrated **Datadog** for real-time monitoring and APM correlation
+- Organized test management in **TestRail** with comprehensive test case documentation and risk-based prioritization; tracked defects in **JIRA** with automated linking to Git commits and pull requests
+- Tested **mobile banking applications** using **Xcode Simulator** for **iOS** and **Android Studio AVD** for **Android**; validated responsive designs, biometric authentication (Face ID/Touch ID), and platform-specific payment features with **Appium** for cross-platform scenarios
 
 
+QA Automation Engineer / Enterprise Solutions Corp / January 2015 — June 2017 / Austin, TX
 
+- Built **UI automation framework** using **Selenium WebDriver** with **Java and TypeScript**, implementing **BDD with Cucumber** for **350+ test scenarios** across enterprise ERP systems; initiated strategic evaluation of **Cypress** for modern web components in late 2016
+- Authored **API automation** using **Karate Framework (BDD)** and **REST Assured** with **Java**; performed manual validation in **Postman** and integrated **Swagger** for **contract testing** of supply chain APIs; implemented **WireMock** for service mocking
+- Designed **performance testing** suite with **Gatling** integrated with Karate scenarios, executing **load and soak tests** up to **~7k RPS** for inventory management and order processing services with detailed performance profiling
+- Established **Jenkins CI/CD pipelines** with **Docker containerization**, scheduled daily regression runs, release branch validation, and automated HTML report publishing with **Slack** integration and email notifications
+- Configured **Azure cloud infrastructure** including **Azure Kubernetes Service (AKS)** for test orchestration, Azure SQL for test data management, **Azure Monitor** for application observability, and **Azure DevOps** for work item tracking
+- Managed test artifacts in **Azure DevOps Test Plans** with bidirectional traceability to requirements; tracked bugs in **JIRA** and maintained comprehensive documentation in Confluence with test strategy and automation guidelines
+- Validated **mobile functionality** using **Appium** with **Java** for **cross-platform testing** on **iOS and Android** physical devices; integrated **BrowserStack** for cloud-based device farm testing across multiple OS versions and device models
+
+
+Software Test Engineer / Digital Media Inc / August 2012 — January 2015 / Seattle, WA
+
+- Developed **UI test automation** using **Selenium WebDriver** with **Python and Java**, following **TDD practices** for content management and video streaming platforms with **320+ automated test cases**
+- Created **API testing framework** using **REST Assured (Java)** and **Postman**; validated REST APIs without Swagger by analyzing network traces and API documentation; built comprehensive regression suite for content delivery APIs
+- Implemented **performance testing** with **JMeter**, conducting **load and stress tests** for streaming services; analyzed throughput, latency, and response times under various user load scenarios up to **~4k concurrent streams**
+- Built **Jenkins CI/CD integration** with scheduled nightly test execution and on-commit triggers; published JUnit XML reports to Jenkins dashboard with email notifications and basic trend analysis
+- Deployed **Docker containers** for consistent test environments; utilized **AWS EC2** for Selenium Grid infrastructure and **S3** for test artifact storage; managed test data in MySQL databases
+- Maintained test cases in **TestRail** with manual and automated test execution tracking; logged defects in **JIRA** with detailed reproduction steps, environment information, and video evidence
+- Participated in **Agile ceremonies** including sprint planning, daily standups, and retrospectives; collaborated with developers on acceptance criteria definition and exploratory testing sessions
+
+
+QA Engineer / Healthcare Systems Inc / May 2010 — August 2012 / Boston, MA
+
+- Implemented **UI automation framework** using **Selenium WebDriver** with **Java**, applying **BDD methodology** with **Cucumber** for electronic health record (EHR) system testing with **280+ automated scenarios**
+- Built **API test suite** using **REST Assured** and **Postman** for manual validation; created **contract tests** using **Swagger/OpenAPI** for patient data exchange and HL7 FHIR APIs with comprehensive data validation rules
+- Executed **performance testing** with **JMeter** for concurrent user **load testing**; validated system performance under peak usage scenarios for hospital workflow applications serving **~2k concurrent clinical users**
+- Configured **Jenkins CI pipelines** with automated test execution on code commits; generated TestNG HTML reports distributed via email to development and QA teams; maintained test environments on Windows Server VMs
+- Managed test execution infrastructure on Windows Server VMs; integrated with **SQL Server** for database validation and test data setup/teardown scripts; validated data integrity across patient records and clinical workflows
+- Organized test cases in custom Excel-based test management system migrating to **TestRail**; tracked defects in **JIRA** with comprehensive linking to requirements and detailed defect analysis reports
+- Conducted **mobile web testing** using Selenium Grid with mobile browser emulation for tablet-optimized clinical applications; validated touch interactions and responsive layouts for iPads used by clinical staff
