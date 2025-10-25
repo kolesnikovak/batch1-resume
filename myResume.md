@@ -4,7 +4,7 @@ kolesnikova.kate@outlook.com
 https://www.linkedin.com/in/kate-kolesnikova-qa/
 
 
-SUMMARY
+PROFESSIONAL SUMMARY
 
 Senior QA Automation Engineer with 6+ years of experience architecting and implementing scalable test automation frameworks across web, mobile, and API platforms. Expert in building CI/CD pipelines with comprehensive test coverage, leveraging modern automation tools (Playwright, Cypress, Selenium), and driving quality engineering excellence in Agile environments. Proven track record of reducing defect escape rates, accelerating release cycles, and mentoring engineering teams on testing best practices and shift-left strategies.
 
