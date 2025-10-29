@@ -6,7 +6,7 @@
 
 ## SUMMARY
 
-Senior QA Automation Engineer with **6+ years** architecting **enterprise-scale test automation frameworks** for web, mobile, and API platforms in **regulated industries** (Finance, Healthcare). Expert in **Playwright**, **Cypress**, **Selenium**, and **CI/CD integration** across **cloud-native microservices architectures**. Proven ability to reduce defect escape rates by **60%+**, accelerate release cycles through **shift-left testing**, and drive **continuous quality** strategies in high-velocity Agile/DevOps environments.
+Senior QA Automation Engineer with **7 years** architecting **enterprise-scale test automation frameworks** for web, mobile, and API platforms in **regulated industries** (Finance, Healthcare). Expert in **Playwright**, **Cypress**, **Selenium**, and **CI/CD integration** across **cloud-native microservices architectures**. Proven ability to reduce defect escape rates by **60%+**, accelerate release cycles through **shift-left testing**, and drive **continuous quality** strategies in high-velocity Agile/DevOps environments.
 
 ---
 
